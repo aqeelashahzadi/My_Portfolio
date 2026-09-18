@@ -390,7 +390,7 @@ a:focus-visible,button:focus-visible{
   border-top:1px solid var(--border); border-bottom:1px solid var(--border);
 }
 .sect-img{
-     background-image: url(assets/projects/mes2.png);
+     background-image: url(assets/projects/mes2.webp);
    background-repeat: no-repeat;
    background-position: cover;
    background-size: cover;
